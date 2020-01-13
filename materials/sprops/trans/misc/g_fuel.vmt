@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$model" 	"1"
+	"$baseTexture" 	"sprops/trans/misc/g_fuel"
+	"$bumpmap"      "sprops/trans/misc/g_nrm"
+
+	"$halflambert" "1"
+	"$blendtintbybasealpha" "1"
+
+	"$phong" 	"1"
+	"$phongexponent"  "10"
+	"$phongboost" 	"2"
+	"$phongfresnelranges"	"[.25 1 4]"
+}

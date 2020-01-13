@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$model" 	"1"
+	"$basetexture"	"sprops/textures/sprops_metal2"
+	"$bumpmap"	"sprops/textures/sprops_metal2_nrm"
+	"$halflambert" 	"1"
+	"$phong" 	"1"
+	"$phongboost" 	"0.25"
+	"$phongexponent"  "15"
+	"$phongtint" 	"[1 0.85 0.85]"
+	"$phongfresnelranges" "[.5 .85 30]"
+}

@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$model" 	"1"
+	"$baseTexture" 	"sprops/textures/sprops_chrome"
+	"$bumpmap"      	"sprops/textures/sprops_chrome_nrm"
+	"$phong" 	"1"
+	"$phongexponent"  "6"
+	"$phongboost" 	"3"
+	"$phongfresnelranges"	"[.25 1 4]"
+	"$envmap" 	"env_cubemap"
+	"$envmaptint" 	"[1 1 1]"
+}

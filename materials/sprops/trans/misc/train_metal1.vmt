@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$model" 	"1"
+	"$baseTexture" 	"sprops/trans/misc/train_metal1"
+	"$bumpmap"      "sprops/textures/sprops_chrome_nrm"
+
+	"$halflambert" "1"
+	"$blendtintbybasealpha" "1"
+
+	"$phong" 	"1"
+	"$phongexponent"  "10"
+	"$phongboost" 	"1"
+	"$phongfresnelranges"	"[.25 1 4]"
+}

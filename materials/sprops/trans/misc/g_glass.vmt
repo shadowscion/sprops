@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$model"		"1"
+	"$baseTexture"	"sprops/trans/misc/g_glass"
+	"$bumpmap"      "sprops/trans/misc/g_nrm"
+
+	"$halflambert"	"1"
+	"$translucent" "1"
+
+	"$phong" 	"1"
+	"$phongexponent"  "20"
+	"$phongboost" 	"5"
+	"$phongfresnelranges"	"[.25 1 4]"
+
+	"$envmap" 	"env_cubemap"
+	"$envmaptint" 	"[1 1 1]"
+}

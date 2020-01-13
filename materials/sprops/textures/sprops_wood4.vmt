@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$model" 	"1"
+	"$basetexture"	"sprops/textures/sprops_wood4"
+	"$bumpmap"	"sprops/textures/sprops_wood4_nrm"
+	"$halflambert" 	"1"
+	"$phong"     	"1"
+	"$phongboost"   "5"
+ 	"$phongexponent" "10"
+ 	"$phongfresnelranges" "[.25 1 4]"
+}

@@ -1,0 +1,496 @@
+"TableToKeyValues"
+{
+	"parentid"		"37"
+	"icon"		"icon16/plugin_disabled.png"
+	"id"		"51"
+	"contents"
+	{
+		"1"
+		{
+			"type"		"header"
+			"text"		"Spur Gears"
+		}
+		"2"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_10t_s.mdl"
+		}
+		"3"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_12t_s.mdl"
+		}
+		"4"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_14t_s.mdl"
+		}
+		"5"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_16t_s.mdl"
+		}
+		"6"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_18t_s.mdl"
+		}
+		"7"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_24t_s.mdl"
+		}
+		"8"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_30t_s.mdl"
+		}
+		"9"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_36t_s.mdl"
+		}
+		"10"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_42t_s.mdl"
+		}
+		"11"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_48t_s.mdl"
+		}
+		"12"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_54t_s.mdl"
+		}
+		"13"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_60t_s.mdl"
+		}
+		"14"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_66t_s.mdl"
+		}
+		"15"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_72t_s.mdl"
+		}
+		"16"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_78t_s.mdl"
+		}
+		"17"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_84t_s.mdl"
+		}
+		"18"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_90t_s.mdl"
+		}
+		"19"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_96t_s.mdl"
+		}
+		"20"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_10t_l.mdl"
+		}
+		"21"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_12t_l.mdl"
+		}
+		"22"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_14t_l.mdl"
+		}
+		"23"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_16t_l.mdl"
+		}
+		"24"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_18t_l.mdl"
+		}
+		"25"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_24t_l.mdl"
+		}
+		"26"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_30t_l.mdl"
+		}
+		"27"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_36t_l.mdl"
+		}
+		"28"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_42t_l.mdl"
+		}
+		"29"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_48t_l.mdl"
+		}
+		"30"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_54t_l.mdl"
+		}
+		"31"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_60t_l.mdl"
+		}
+		"32"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_66t_l.mdl"
+		}
+		"33"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_72t_l.mdl"
+		}
+		"34"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_78t_l.mdl"
+		}
+		"35"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_84t_l.mdl"
+		}
+		"36"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_90t_l.mdl"
+		}
+		"37"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/sgears/spur_96t_l.mdl"
+		}
+		"38"
+		{
+			"type"		"header"
+			"text"		"Bevel Gears"
+		}
+		"39"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_10t_s.mdl"
+		}
+		"40"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_12t_s.mdl"
+		}
+		"41"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_14t_s.mdl"
+		}
+		"42"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_16t_s.mdl"
+		}
+		"43"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_18t_s.mdl"
+		}
+		"44"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_24t_s.mdl"
+		}
+		"45"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_30t_s.mdl"
+		}
+		"46"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_36t_s.mdl"
+		}
+		"47"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_42t_s.mdl"
+		}
+		"48"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_48t_s.mdl"
+		}
+		"49"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_54t_s.mdl"
+		}
+		"50"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_60t_s.mdl"
+		}
+		"51"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_10t_l.mdl"
+		}
+		"52"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_12t_l.mdl"
+		}
+		"53"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_14t_l.mdl"
+		}
+		"54"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_16t_l.mdl"
+		}
+		"55"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_18t_l.mdl"
+		}
+		"56"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_24t_l.mdl"
+		}
+		"57"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_30t_l.mdl"
+		}
+		"58"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_36t_l.mdl"
+		}
+		"59"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_42t_l.mdl"
+		}
+		"60"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_48t_l.mdl"
+		}
+		"61"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_54t_l.mdl"
+		}
+		"62"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/bgears/bevel_60t_l.mdl"
+		}
+		"63"
+		{
+			"type"		"header"
+			"text"		"Racks"
+		}
+		"64"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/racks/rack_12t_s.mdl"
+		}
+		"65"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/racks/rack_24t_s.mdl"
+		}
+		"66"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/racks/rack_36t_s.mdl"
+		}
+		"67"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/racks/rack_48t_s.mdl"
+		}
+		"68"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/racks/rack_60t_s.mdl"
+		}
+		"69"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/racks/rack_72t_s.mdl"
+		}
+		"70"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/racks/rack_84t_s.mdl"
+		}
+		"71"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/racks/rack_96t_s.mdl"
+		}
+		"72"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/racks/rack_12t_l.mdl"
+		}
+		"73"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/racks/rack_24t_l.mdl"
+		}
+		"74"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/racks/rack_36t_l.mdl"
+		}
+		"75"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/racks/rack_48t_l.mdl"
+		}
+		"76"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/racks/rack_60t_l.mdl"
+		}
+		"77"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/racks/rack_72t_l.mdl"
+		}
+		"78"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/racks/rack_84t_l.mdl"
+		}
+		"79"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/racks/rack_96t_l.mdl"
+		}
+		"80"
+		{
+			"type"		"header"
+			"text"		"Misc. Stuff"
+		}
+		"81"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/misc/cam_a0.mdl"
+		}
+		"82"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/misc/cam_a1.mdl"
+		}
+		"83"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/misc/cam_a2.mdl"
+		}
+		"84"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/misc/cam_b0.mdl"
+		}
+		"85"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/misc/cam_b1.mdl"
+		}
+		"86"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/misc/cam_b2.mdl"
+		}
+		"87"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/misc/cam_c0.mdl"
+		}
+		"88"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/misc/cam_c1.mdl"
+		}
+		"89"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/misc/cam_c2.mdl"
+		}
+		"90"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/misc/ratchet_15t_s.mdl"
+		}
+		"91"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/misc/ratchet_15t_l.mdl"
+		}
+		"92"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/misc/ratchet_30t_s.mdl"
+		}
+		"93"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/misc/ratchet_30t_l.mdl"
+		}
+		"94"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/misc/ratchet_45t_s.mdl"
+		}
+		"95"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/misc/ratchet_45t_l.mdl"
+		}
+		"96"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/misc/ratchet_60t_s.mdl"
+		}
+		"97"
+		{
+			"type"		"model"
+			"model"		"models/sprops/mechanics/misc/ratchet_60t_l.mdl"
+		}
+	}
+	"name"		"Mechanics"
+	"version"		"3"
+}

@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "sprops/trans/lights/light_cover_a"
+	"$bumpmap" "sprops/trans/lights/light_cover_a_nrm"
+	"$model" "1"
+	
+	"$blendtintbybasealpha" "1"
+	"$HalfLambert" "1"
+
+	"$phong" "1"
+	"$phongboost" "0.15"
+	"$phongexponent" "5"
+	"$phongfresnelranges"	"[.25 1 4]"
+}

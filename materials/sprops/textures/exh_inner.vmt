@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$model"		"1"
+	"$baseTexture"	"sprops/textures/exh_inner"
+	"$bumpmap" "sprops/textures/exh_inner_nrm"
+	"$blendtintbybasealpha" "1"
+	"$halflambert"	"1"
+}

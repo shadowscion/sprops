@@ -1,0 +1,12 @@
+{
+	"title"		:	"SProps Workshop Edition",
+	"type"		:	"model",
+	"tags"		:	[ "build", "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		"*.git*"
+	]
+}

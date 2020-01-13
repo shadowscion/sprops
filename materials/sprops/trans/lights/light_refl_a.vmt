@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$model"		"1"
+	"$baseTexture"	"sprops/trans/lights/light_refl_a"
+
+	"$blendtintbybasealpha" "1"
+	"$halflambert"	"1"
+
+	"$phong" 	"1"
+	"$phongexponent"  "10"
+	"$phongboost" 	"1"
+	"$phongfresnelranges"	"[.25 1 4]"
+
+	"$envmap" 	"env_cubemap"
+	"$envmaptint" 	"[1 1 1]"
+}

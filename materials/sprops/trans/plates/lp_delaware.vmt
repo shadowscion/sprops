@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$model" "1"
+	"$baseTexture" "sprops/trans/plates/lp_delaware"
+	"$bumpmap" "sprops/trans/plates/lp_delaware_nrm"
+
+	"$halflambert" "1"
+
+	"$phong" "1"
+	"$phongboost" "0.5"
+	"$phongexponent" "15"
+	"$phongtint" "[1 0.85 0.85]"
+	"$phongfresnelranges" "[.5 .85 30]"
+}

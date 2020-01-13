@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$model"		"1"
+	"$basetexture"	"sprops/textures/sprops_metal6_d"
+	"$bumpmap"	"sprops/textures/sprops_metal6_n"
+	"$blendtintbybasealpha" "1"
+	"$halflambert" 	"1"
+	"$phong"     	"1"
+ 	"$phongexponent"  "10"
+ 	"$phongboost"   	"1"
+ 	"$phongfresnelranges"   "[0 .5 1]"
+}

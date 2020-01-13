@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$model" 	"1"
+	"$baseTexture" 	"sprops/trans/misc/beam_side"
+	"$bumpmap"      "sprops/trans/misc/beam_side_nrm"
+
+	"$halflambert" "1"
+
+	"$phong" 	"1"
+	"$phongexponent"  "10"
+	"$phongboost" 	"2"
+	"$phongfresnelranges"	"[.25 1 4]"
+}

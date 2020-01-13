@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$model" "1"
+	"$baseTexture" "sprops/trans/wheels/wheel_d_emblem_d"
+	"$bumpmap" "sprops/trans/wheels/wheel_d_emblem_n"
+
+	"$halfLambert" "1"
+	"$blendtintbybasealpha" "1"
+
+	"$phong" "1"
+	"$phongboost" "3"
+	"$phongexponent" "10"
+	"$phongfresnelranges"	"[.25 1 4]"
+}

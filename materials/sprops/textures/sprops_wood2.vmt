@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$model" 	"1"
+	"$basetexture"	"sprops/textures/sprops_wood2"
+	"$bumpmap"	"sprops/textures/sprops_wood2_nrm"
+	"$halflambert" 	"1"
+}

@@ -1,0 +1,3016 @@
+"TableToKeyValues"
+{
+	"parentid"		"37"
+	"icon"		"icon16/plugin_disabled.png"
+	"id"		"49"
+	"contents"
+	{
+		"1"
+		{
+			"type"		"header"
+			"text"		"Hexagons"
+		}
+		"2"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qhex_12.mdl"
+		}
+		"3"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qhex_18.mdl"
+		}
+		"4"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qhex_24.mdl"
+		}
+		"5"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qhex_30.mdl"
+		}
+		"6"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qhex_36.mdl"
+		}
+		"7"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qhex_42.mdl"
+		}
+		"8"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qhex_48.mdl"
+		}
+		"9"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qhex_60.mdl"
+		}
+		"10"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qhex_72.mdl"
+		}
+		"11"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qhex_84.mdl"
+		}
+		"12"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qhex_96.mdl"
+		}
+		"13"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qhex_108.mdl"
+		}
+		"14"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qhex_120.mdl"
+		}
+		"15"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qhex_132.mdl"
+		}
+		"16"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qhex_144.mdl"
+		}
+		"17"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hhex_12.mdl"
+		}
+		"18"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hhex_18.mdl"
+		}
+		"19"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hhex_24.mdl"
+		}
+		"20"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hhex_30.mdl"
+		}
+		"21"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hhex_36.mdl"
+		}
+		"22"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hhex_42.mdl"
+		}
+		"23"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hhex_48.mdl"
+		}
+		"24"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hhex_60.mdl"
+		}
+		"25"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hhex_72.mdl"
+		}
+		"26"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hhex_84.mdl"
+		}
+		"27"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hhex_96.mdl"
+		}
+		"28"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hhex_108.mdl"
+		}
+		"29"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hhex_120.mdl"
+		}
+		"30"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hhex_132.mdl"
+		}
+		"31"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hhex_144.mdl"
+		}
+		"32"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fhex_12.mdl"
+		}
+		"33"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fhex_18.mdl"
+		}
+		"34"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fhex_24.mdl"
+		}
+		"35"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fhex_30.mdl"
+		}
+		"36"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fhex_36.mdl"
+		}
+		"37"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fhex_42.mdl"
+		}
+		"38"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fhex_48.mdl"
+		}
+		"39"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fhex_60.mdl"
+		}
+		"40"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fhex_72.mdl"
+		}
+		"41"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fhex_84.mdl"
+		}
+		"42"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fhex_96.mdl"
+		}
+		"43"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fhex_108.mdl"
+		}
+		"44"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fhex_120.mdl"
+		}
+		"45"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fhex_132.mdl"
+		}
+		"46"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fhex_144.mdl"
+		}
+		"47"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qhex_12.mdl"
+		}
+		"48"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qhex_18.mdl"
+		}
+		"49"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qhex_24.mdl"
+		}
+		"50"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qhex_30.mdl"
+		}
+		"51"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qhex_36.mdl"
+		}
+		"52"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qhex_42.mdl"
+		}
+		"53"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qhex_48.mdl"
+		}
+		"54"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qhex_60.mdl"
+		}
+		"55"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qhex_72.mdl"
+		}
+		"56"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qhex_84.mdl"
+		}
+		"57"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qhex_96.mdl"
+		}
+		"58"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qhex_108.mdl"
+		}
+		"59"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qhex_120.mdl"
+		}
+		"60"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qhex_132.mdl"
+		}
+		"61"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qhex_144.mdl"
+		}
+		"62"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hhex_12.mdl"
+		}
+		"63"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hhex_18.mdl"
+		}
+		"64"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hhex_24.mdl"
+		}
+		"65"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hhex_30.mdl"
+		}
+		"66"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hhex_36.mdl"
+		}
+		"67"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hhex_42.mdl"
+		}
+		"68"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hhex_48.mdl"
+		}
+		"69"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hhex_60.mdl"
+		}
+		"70"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hhex_72.mdl"
+		}
+		"71"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hhex_84.mdl"
+		}
+		"72"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hhex_96.mdl"
+		}
+		"73"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hhex_108.mdl"
+		}
+		"74"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hhex_120.mdl"
+		}
+		"75"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hhex_132.mdl"
+		}
+		"76"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hhex_144.mdl"
+		}
+		"77"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fhex_12.mdl"
+		}
+		"78"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fhex_18.mdl"
+		}
+		"79"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fhex_24.mdl"
+		}
+		"80"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fhex_30.mdl"
+		}
+		"81"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fhex_36.mdl"
+		}
+		"82"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fhex_42.mdl"
+		}
+		"83"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fhex_48.mdl"
+		}
+		"84"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fhex_60.mdl"
+		}
+		"85"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fhex_72.mdl"
+		}
+		"86"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fhex_84.mdl"
+		}
+		"87"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fhex_96.mdl"
+		}
+		"88"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fhex_108.mdl"
+		}
+		"89"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fhex_120.mdl"
+		}
+		"90"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fhex_132.mdl"
+		}
+		"91"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fhex_144.mdl"
+		}
+		"92"
+		{
+			"type"		"header"
+			"text"		"Discs"
+		}
+		"93"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qdisc_12.mdl"
+		}
+		"94"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qdisc_18.mdl"
+		}
+		"95"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qdisc_24.mdl"
+		}
+		"96"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qdisc_30.mdl"
+		}
+		"97"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qdisc_36.mdl"
+		}
+		"98"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qdisc_42.mdl"
+		}
+		"99"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qdisc_48.mdl"
+		}
+		"100"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qdisc_60.mdl"
+		}
+		"101"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qdisc_72.mdl"
+		}
+		"102"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qdisc_84.mdl"
+		}
+		"103"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qdisc_96.mdl"
+		}
+		"104"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qdisc_108.mdl"
+		}
+		"105"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qdisc_120.mdl"
+		}
+		"106"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qdisc_132.mdl"
+		}
+		"107"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_qdisc_144.mdl"
+		}
+		"108"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hdisc_12.mdl"
+		}
+		"109"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hdisc_18.mdl"
+		}
+		"110"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hdisc_24.mdl"
+		}
+		"111"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hdisc_30.mdl"
+		}
+		"112"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hdisc_36.mdl"
+		}
+		"113"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hdisc_42.mdl"
+		}
+		"114"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hdisc_48.mdl"
+		}
+		"115"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hdisc_60.mdl"
+		}
+		"116"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hdisc_72.mdl"
+		}
+		"117"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hdisc_84.mdl"
+		}
+		"118"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hdisc_96.mdl"
+		}
+		"119"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hdisc_108.mdl"
+		}
+		"120"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hdisc_120.mdl"
+		}
+		"121"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hdisc_132.mdl"
+		}
+		"122"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_hdisc_144.mdl"
+		}
+		"123"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fdisc_12.mdl"
+		}
+		"124"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fdisc_18.mdl"
+		}
+		"125"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fdisc_24.mdl"
+		}
+		"126"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fdisc_30.mdl"
+		}
+		"127"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fdisc_36.mdl"
+		}
+		"128"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fdisc_42.mdl"
+		}
+		"129"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fdisc_48.mdl"
+		}
+		"130"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fdisc_60.mdl"
+		}
+		"131"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fdisc_72.mdl"
+		}
+		"132"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fdisc_84.mdl"
+		}
+		"133"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fdisc_96.mdl"
+		}
+		"134"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fdisc_108.mdl"
+		}
+		"135"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fdisc_120.mdl"
+		}
+		"136"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fdisc_132.mdl"
+		}
+		"137"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/t_fdisc_144.mdl"
+		}
+		"138"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qdisc_12.mdl"
+		}
+		"139"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qdisc_18.mdl"
+		}
+		"140"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qdisc_24.mdl"
+		}
+		"141"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qdisc_30.mdl"
+		}
+		"142"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qdisc_36.mdl"
+		}
+		"143"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qdisc_42.mdl"
+		}
+		"144"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qdisc_48.mdl"
+		}
+		"145"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qdisc_60.mdl"
+		}
+		"146"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qdisc_72.mdl"
+		}
+		"147"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qdisc_84.mdl"
+		}
+		"148"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qdisc_96.mdl"
+		}
+		"149"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qdisc_108.mdl"
+		}
+		"150"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qdisc_120.mdl"
+		}
+		"151"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qdisc_132.mdl"
+		}
+		"152"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qdisc_144.mdl"
+		}
+		"153"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hdisc_12.mdl"
+		}
+		"154"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hdisc_18.mdl"
+		}
+		"155"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hdisc_24.mdl"
+		}
+		"156"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hdisc_30.mdl"
+		}
+		"157"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hdisc_36.mdl"
+		}
+		"158"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hdisc_42.mdl"
+		}
+		"159"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hdisc_48.mdl"
+		}
+		"160"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hdisc_60.mdl"
+		}
+		"161"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hdisc_72.mdl"
+		}
+		"162"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hdisc_84.mdl"
+		}
+		"163"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hdisc_96.mdl"
+		}
+		"164"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hdisc_108.mdl"
+		}
+		"165"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hdisc_120.mdl"
+		}
+		"166"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hdisc_132.mdl"
+		}
+		"167"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hdisc_144.mdl"
+		}
+		"168"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fdisc_12.mdl"
+		}
+		"169"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fdisc_18.mdl"
+		}
+		"170"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fdisc_24.mdl"
+		}
+		"171"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fdisc_30.mdl"
+		}
+		"172"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fdisc_36.mdl"
+		}
+		"173"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fdisc_42.mdl"
+		}
+		"174"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fdisc_48.mdl"
+		}
+		"175"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fdisc_60.mdl"
+		}
+		"176"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fdisc_72.mdl"
+		}
+		"177"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fdisc_84.mdl"
+		}
+		"178"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fdisc_96.mdl"
+		}
+		"179"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fdisc_108.mdl"
+		}
+		"180"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fdisc_120.mdl"
+		}
+		"181"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fdisc_132.mdl"
+		}
+		"182"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fdisc_144.mdl"
+		}
+		"183"
+		{
+			"type"		"header"
+			"text"		"Rings"
+		}
+		"184"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qring_12.mdl"
+		}
+		"185"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qring_18.mdl"
+		}
+		"186"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qring_24.mdl"
+		}
+		"187"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qring_30.mdl"
+		}
+		"188"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qring_36.mdl"
+		}
+		"189"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qring_42.mdl"
+		}
+		"190"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qring_48.mdl"
+		}
+		"191"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qring_72.mdl"
+		}
+		"192"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qring_60.mdl"
+		}
+		"193"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qring_84.mdl"
+		}
+		"194"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qring_96.mdl"
+		}
+		"195"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qring_108.mdl"
+		}
+		"196"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qring_120.mdl"
+		}
+		"197"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qring_132.mdl"
+		}
+		"198"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/qring_144.mdl"
+		}
+		"199"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hring_12.mdl"
+		}
+		"200"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hring_18.mdl"
+		}
+		"201"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hring_24.mdl"
+		}
+		"202"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hring_30.mdl"
+		}
+		"203"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hring_36.mdl"
+		}
+		"204"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hring_42.mdl"
+		}
+		"205"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hring_48.mdl"
+		}
+		"206"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hring_60.mdl"
+		}
+		"207"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hring_72.mdl"
+		}
+		"208"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hring_84.mdl"
+		}
+		"209"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hring_96.mdl"
+		}
+		"210"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hring_108.mdl"
+		}
+		"211"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hring_120.mdl"
+		}
+		"212"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hring_132.mdl"
+		}
+		"213"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/hring_144.mdl"
+		}
+		"214"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fring_12.mdl"
+		}
+		"215"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fring_18.mdl"
+		}
+		"216"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fring_24.mdl"
+		}
+		"217"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fring_30.mdl"
+		}
+		"218"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fring_36.mdl"
+		}
+		"219"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fring_42.mdl"
+		}
+		"220"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fring_48.mdl"
+		}
+		"221"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fring_60.mdl"
+		}
+		"222"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fring_72.mdl"
+		}
+		"223"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fring_84.mdl"
+		}
+		"224"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fring_96.mdl"
+		}
+		"225"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fring_108.mdl"
+		}
+		"226"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fring_120.mdl"
+		}
+		"227"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fring_132.mdl"
+		}
+		"228"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/fring_144.mdl"
+		}
+		"229"
+		{
+			"type"		"header"
+			"text"		"Spheres"
+		}
+		"230"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/sphere_3.mdl"
+		}
+		"231"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/sphere_6.mdl"
+		}
+		"232"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/sphere_9.mdl"
+		}
+		"233"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/sphere_12.mdl"
+		}
+		"234"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/sphere_18.mdl"
+		}
+		"235"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/sphere_24.mdl"
+		}
+		"236"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/sphere_30.mdl"
+		}
+		"237"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/sphere_36.mdl"
+		}
+		"238"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/sphere_42.mdl"
+		}
+		"239"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/sphere_48.mdl"
+		}
+		"240"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/sphere_60.mdl"
+		}
+		"241"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/sphere_72.mdl"
+		}
+		"242"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/sphere_84.mdl"
+		}
+		"243"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/sphere_96.mdl"
+		}
+		"244"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/sphere_108.mdl"
+		}
+		"245"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/sphere_120.mdl"
+		}
+		"246"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/sphere_132.mdl"
+		}
+		"247"
+		{
+			"type"		"model"
+			"model"		"models/sprops/geometry/sphere_144.mdl"
+		}
+		"248"
+		{
+			"type"		"header"
+			"text"		"Domes"
+		}
+		"249"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_0/dome_3x1_5.mdl"
+		}
+		"250"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_0/dome_3x3.mdl"
+		}
+		"251"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_0/dome_3x6.mdl"
+		}
+		"252"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_0/dome_3x12.mdl"
+		}
+		"253"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_0/dome_3x18.mdl"
+		}
+		"254"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_0/dome_3x24.mdl"
+		}
+		"255"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_0/dome_3x30.mdl"
+		}
+		"256"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_0/dome_3x36.mdl"
+		}
+		"257"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_0/dome_3x42.mdl"
+		}
+		"258"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_0/dome_3x48.mdl"
+		}
+		"259"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_0/dome_6x3.mdl"
+		}
+		"260"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_0/dome_6x6.mdl"
+		}
+		"261"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_0/dome_6x12.mdl"
+		}
+		"262"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_0/dome_6x18.mdl"
+		}
+		"263"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_0/dome_6x24.mdl"
+		}
+		"264"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_0/dome_6x30.mdl"
+		}
+		"265"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_0/dome_6x36.mdl"
+		}
+		"266"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_0/dome_6x42.mdl"
+		}
+		"267"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_0/dome_6x48.mdl"
+		}
+		"268"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_1/dome_12x6.mdl"
+		}
+		"269"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_1/dome_12x12.mdl"
+		}
+		"270"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_1/dome_12x18.mdl"
+		}
+		"271"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_1/dome_12x24.mdl"
+		}
+		"272"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_1/dome_12x30.mdl"
+		}
+		"273"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_1/dome_12x36.mdl"
+		}
+		"274"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_1/dome_12x42.mdl"
+		}
+		"275"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_1/dome_12x48.mdl"
+		}
+		"276"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_1/dome_12x60.mdl"
+		}
+		"277"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_1/dome_12x72.mdl"
+		}
+		"278"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_1/dome_12x84.mdl"
+		}
+		"279"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_1/dome_12x96.mdl"
+		}
+		"280"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_1/dome_12x108.mdl"
+		}
+		"281"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_1/dome_12x120.mdl"
+		}
+		"282"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_1/dome_12x132.mdl"
+		}
+		"283"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_1/dome_12x144.mdl"
+		}
+		"284"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_2/dome_24x12.mdl"
+		}
+		"285"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_2/dome_24x18.mdl"
+		}
+		"286"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_2/dome_24x24.mdl"
+		}
+		"287"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_2/dome_24x30.mdl"
+		}
+		"288"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_2/dome_24x36.mdl"
+		}
+		"289"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_2/dome_24x42.mdl"
+		}
+		"290"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_2/dome_24x48.mdl"
+		}
+		"291"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_2/dome_24x60.mdl"
+		}
+		"292"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_2/dome_24x72.mdl"
+		}
+		"293"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_2/dome_24x84.mdl"
+		}
+		"294"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_2/dome_24x96.mdl"
+		}
+		"295"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_2/dome_24x108.mdl"
+		}
+		"296"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_2/dome_24x120.mdl"
+		}
+		"297"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_2/dome_24x132.mdl"
+		}
+		"298"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_2/dome_24x144.mdl"
+		}
+		"299"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_3/dome_36x18.mdl"
+		}
+		"300"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_3/dome_36x24.mdl"
+		}
+		"301"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_3/dome_36x30.mdl"
+		}
+		"302"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_3/dome_36x36.mdl"
+		}
+		"303"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_3/dome_36x42.mdl"
+		}
+		"304"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_3/dome_36x48.mdl"
+		}
+		"305"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_3/dome_36x60.mdl"
+		}
+		"306"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_3/dome_36x72.mdl"
+		}
+		"307"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_3/dome_36x84.mdl"
+		}
+		"308"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_3/dome_36x96.mdl"
+		}
+		"309"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_3/dome_36x108.mdl"
+		}
+		"310"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_3/dome_36x120.mdl"
+		}
+		"311"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_3/dome_36x132.mdl"
+		}
+		"312"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_3/dome_36x144.mdl"
+		}
+		"313"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_4/dome_48x24.mdl"
+		}
+		"314"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_4/dome_48x30.mdl"
+		}
+		"315"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_4/dome_48x36.mdl"
+		}
+		"316"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_4/dome_48x42.mdl"
+		}
+		"317"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_4/dome_48x48.mdl"
+		}
+		"318"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_4/dome_48x60.mdl"
+		}
+		"319"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_4/dome_48x72.mdl"
+		}
+		"320"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_4/dome_48x84.mdl"
+		}
+		"321"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_4/dome_48x96.mdl"
+		}
+		"322"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_4/dome_48x108.mdl"
+		}
+		"323"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_4/dome_48x120.mdl"
+		}
+		"324"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_4/dome_48x132.mdl"
+		}
+		"325"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/domes/size_4/dome_48x144.mdl"
+		}
+		"326"
+		{
+			"type"		"header"
+			"text"		"Cones"
+		}
+		"327"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_0/cone_3x1_5.mdl"
+		}
+		"328"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_0/cone_3x3.mdl"
+		}
+		"329"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_0/cone_3x6.mdl"
+		}
+		"330"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_0/cone_3x12.mdl"
+		}
+		"331"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_0/cone_3x18.mdl"
+		}
+		"332"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_0/cone_3x24.mdl"
+		}
+		"333"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_0/cone_3x30.mdl"
+		}
+		"334"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_0/cone_3x36.mdl"
+		}
+		"335"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_0/cone_3x42.mdl"
+		}
+		"336"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_0/cone_3x48.mdl"
+		}
+		"337"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_0/cone_6x3.mdl"
+		}
+		"338"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_0/cone_6x6.mdl"
+		}
+		"339"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_0/cone_6x12.mdl"
+		}
+		"340"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_0/cone_6x18.mdl"
+		}
+		"341"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_0/cone_6x24.mdl"
+		}
+		"342"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_0/cone_6x30.mdl"
+		}
+		"343"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_0/cone_6x36.mdl"
+		}
+		"344"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_0/cone_6x42.mdl"
+		}
+		"345"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_0/cone_6x48.mdl"
+		}
+		"346"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_1/cone_12x6.mdl"
+		}
+		"347"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_1/cone_12x12.mdl"
+		}
+		"348"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_1/cone_12x18.mdl"
+		}
+		"349"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_1/cone_12x24.mdl"
+		}
+		"350"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_1/cone_12x30.mdl"
+		}
+		"351"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_1/cone_12x36.mdl"
+		}
+		"352"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_1/cone_12x42.mdl"
+		}
+		"353"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_1/cone_12x48.mdl"
+		}
+		"354"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_1/cone_12x60.mdl"
+		}
+		"355"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_1/cone_12x72.mdl"
+		}
+		"356"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_1/cone_12x84.mdl"
+		}
+		"357"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_1/cone_12x96.mdl"
+		}
+		"358"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_1/cone_12x108.mdl"
+		}
+		"359"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_1/cone_12x120.mdl"
+		}
+		"360"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_1/cone_12x132.mdl"
+		}
+		"361"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_1/cone_12x144.mdl"
+		}
+		"362"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_2/cone_24x12.mdl"
+		}
+		"363"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_2/cone_24x18.mdl"
+		}
+		"364"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_2/cone_24x24.mdl"
+		}
+		"365"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_2/cone_24x30.mdl"
+		}
+		"366"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_2/cone_24x36.mdl"
+		}
+		"367"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_2/cone_24x42.mdl"
+		}
+		"368"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_2/cone_24x48.mdl"
+		}
+		"369"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_2/cone_24x60.mdl"
+		}
+		"370"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_2/cone_24x72.mdl"
+		}
+		"371"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_2/cone_24x84.mdl"
+		}
+		"372"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_2/cone_24x96.mdl"
+		}
+		"373"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_2/cone_24x108.mdl"
+		}
+		"374"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_2/cone_24x120.mdl"
+		}
+		"375"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_2/cone_24x132.mdl"
+		}
+		"376"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_2/cone_24x144.mdl"
+		}
+		"377"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_3/cone_36x18.mdl"
+		}
+		"378"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_3/cone_36x24.mdl"
+		}
+		"379"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_3/cone_36x30.mdl"
+		}
+		"380"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_3/cone_36x36.mdl"
+		}
+		"381"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_3/cone_36x42.mdl"
+		}
+		"382"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_3/cone_36x48.mdl"
+		}
+		"383"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_3/cone_36x60.mdl"
+		}
+		"384"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_3/cone_36x72.mdl"
+		}
+		"385"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_3/cone_36x84.mdl"
+		}
+		"386"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_3/cone_36x96.mdl"
+		}
+		"387"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_3/cone_36x108.mdl"
+		}
+		"388"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_3/cone_36x120.mdl"
+		}
+		"389"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_3/cone_36x132.mdl"
+		}
+		"390"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_3/cone_36x144.mdl"
+		}
+		"391"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_4/cone_48x24.mdl"
+		}
+		"392"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_4/cone_48x30.mdl"
+		}
+		"393"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_4/cone_48x36.mdl"
+		}
+		"394"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_4/cone_48x42.mdl"
+		}
+		"395"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_4/cone_48x48.mdl"
+		}
+		"396"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_4/cone_48x60.mdl"
+		}
+		"397"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_4/cone_48x72.mdl"
+		}
+		"398"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_4/cone_48x84.mdl"
+		}
+		"399"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_4/cone_48x96.mdl"
+		}
+		"400"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_4/cone_48x108.mdl"
+		}
+		"401"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_4/cone_48x120.mdl"
+		}
+		"402"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_4/cone_48x132.mdl"
+		}
+		"403"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/cones/size_4/cone_48x144.mdl"
+		}
+		"404"
+		{
+			"type"		"header"
+			"text"		"Pyramids"
+		}
+		"405"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_1/rpyr_12x6.mdl"
+		}
+		"406"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_1/rpyr_12x12.mdl"
+		}
+		"407"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_1/rpyr_12x18.mdl"
+		}
+		"408"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_1/rpyr_12x24.mdl"
+		}
+		"409"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_1/rpyr_12x30.mdl"
+		}
+		"410"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_1/rpyr_12x36.mdl"
+		}
+		"411"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_1/rpyr_12x42.mdl"
+		}
+		"412"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_1/rpyr_12x48.mdl"
+		}
+		"413"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_1/rpyr_12x60.mdl"
+		}
+		"414"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_1/rpyr_12x72.mdl"
+		}
+		"415"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_1/rpyr_12x84.mdl"
+		}
+		"416"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_1/rpyr_12x96.mdl"
+		}
+		"417"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_1/rpyr_12x108.mdl"
+		}
+		"418"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_1/rpyr_12x120.mdl"
+		}
+		"419"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_1/rpyr_12x132.mdl"
+		}
+		"420"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_1/rpyr_12x144.mdl"
+		}
+		"421"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_2/rpyr_24x6.mdl"
+		}
+		"422"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_2/rpyr_24x12.mdl"
+		}
+		"423"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_2/rpyr_24x18.mdl"
+		}
+		"424"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_2/rpyr_24x24.mdl"
+		}
+		"425"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_2/rpyr_24x30.mdl"
+		}
+		"426"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_2/rpyr_24x36.mdl"
+		}
+		"427"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_2/rpyr_24x42.mdl"
+		}
+		"428"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_2/rpyr_24x48.mdl"
+		}
+		"429"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_2/rpyr_24x60.mdl"
+		}
+		"430"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_2/rpyr_24x72.mdl"
+		}
+		"431"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_2/rpyr_24x84.mdl"
+		}
+		"432"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_2/rpyr_24x96.mdl"
+		}
+		"433"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_2/rpyr_24x108.mdl"
+		}
+		"434"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_2/rpyr_24x120.mdl"
+		}
+		"435"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_2/rpyr_24x132.mdl"
+		}
+		"436"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_2/rpyr_24x144.mdl"
+		}
+		"437"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_3/rpyr_36x6.mdl"
+		}
+		"438"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_3/rpyr_36x12.mdl"
+		}
+		"439"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_3/rpyr_36x18.mdl"
+		}
+		"440"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_3/rpyr_36x24.mdl"
+		}
+		"441"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_3/rpyr_36x30.mdl"
+		}
+		"442"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_3/rpyr_36x36.mdl"
+		}
+		"443"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_3/rpyr_36x42.mdl"
+		}
+		"444"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_3/rpyr_36x48.mdl"
+		}
+		"445"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_3/rpyr_36x60.mdl"
+		}
+		"446"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_3/rpyr_36x72.mdl"
+		}
+		"447"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_3/rpyr_36x84.mdl"
+		}
+		"448"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_3/rpyr_36x96.mdl"
+		}
+		"449"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_3/rpyr_36x108.mdl"
+		}
+		"450"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_3/rpyr_36x120.mdl"
+		}
+		"451"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_3/rpyr_36x132.mdl"
+		}
+		"452"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_3/rpyr_36x144.mdl"
+		}
+		"453"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_4/rpyr_48x6.mdl"
+		}
+		"454"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_4/rpyr_48x12.mdl"
+		}
+		"455"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_4/rpyr_48x18.mdl"
+		}
+		"456"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_4/rpyr_48x24.mdl"
+		}
+		"457"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_4/rpyr_48x30.mdl"
+		}
+		"458"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_4/rpyr_48x36.mdl"
+		}
+		"459"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_4/rpyr_48x42.mdl"
+		}
+		"460"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_4/rpyr_48x48.mdl"
+		}
+		"461"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_4/rpyr_48x60.mdl"
+		}
+		"462"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_4/rpyr_48x72.mdl"
+		}
+		"463"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_4/rpyr_48x84.mdl"
+		}
+		"464"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_4/rpyr_48x96.mdl"
+		}
+		"465"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_4/rpyr_48x108.mdl"
+		}
+		"466"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_4/rpyr_48x120.mdl"
+		}
+		"467"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_4/rpyr_48x132.mdl"
+		}
+		"468"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/pyramids/rsize_4/rpyr_48x144.mdl"
+		}
+		"469"
+		{
+			"type"		"header"
+			"text"		"Ze Holiest of Squares"
+		}
+		"470"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d0_12.mdl"
+		}
+		"471"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d0_18.mdl"
+		}
+		"472"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d0_24.mdl"
+		}
+		"473"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d0_30.mdl"
+		}
+		"474"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d0_36.mdl"
+		}
+		"475"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d0_42.mdl"
+		}
+		"476"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d0_48.mdl"
+		}
+		"477"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d0_60.mdl"
+		}
+		"478"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d0_72.mdl"
+		}
+		"479"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d0_84.mdl"
+		}
+		"480"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d0_96.mdl"
+		}
+		"481"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d0_108.mdl"
+		}
+		"482"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d0_120.mdl"
+		}
+		"483"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d0_132.mdl"
+		}
+		"484"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d0_144.mdl"
+		}
+		"485"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d0_12.mdl"
+		}
+		"486"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d0_18.mdl"
+		}
+		"487"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d0_24.mdl"
+		}
+		"488"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d0_30.mdl"
+		}
+		"489"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d0_36.mdl"
+		}
+		"490"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d0_42.mdl"
+		}
+		"491"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d0_48.mdl"
+		}
+		"492"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d0_60.mdl"
+		}
+		"493"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d0_72.mdl"
+		}
+		"494"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d0_84.mdl"
+		}
+		"495"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d0_96.mdl"
+		}
+		"496"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d0_108.mdl"
+		}
+		"497"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d0_120.mdl"
+		}
+		"498"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d0_132.mdl"
+		}
+		"499"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d0_144.mdl"
+		}
+		"500"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d0_12.mdl"
+		}
+		"501"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d0_18.mdl"
+		}
+		"502"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d0_24.mdl"
+		}
+		"503"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d0_30.mdl"
+		}
+		"504"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d0_36.mdl"
+		}
+		"505"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d0_42.mdl"
+		}
+		"506"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d0_48.mdl"
+		}
+		"507"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d0_60.mdl"
+		}
+		"508"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d0_72.mdl"
+		}
+		"509"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d0_84.mdl"
+		}
+		"510"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d0_96.mdl"
+		}
+		"511"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d0_108.mdl"
+		}
+		"512"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d0_120.mdl"
+		}
+		"513"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d0_132.mdl"
+		}
+		"514"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d0_144.mdl"
+		}
+		"515"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d0_12.mdl"
+		}
+		"516"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d0_18.mdl"
+		}
+		"517"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d0_24.mdl"
+		}
+		"518"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d0_30.mdl"
+		}
+		"519"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d0_36.mdl"
+		}
+		"520"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d0_42.mdl"
+		}
+		"521"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d0_48.mdl"
+		}
+		"522"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d0_60.mdl"
+		}
+		"523"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d0_72.mdl"
+		}
+		"524"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d0_84.mdl"
+		}
+		"525"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d0_96.mdl"
+		}
+		"526"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d0_108.mdl"
+		}
+		"527"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d0_120.mdl"
+		}
+		"528"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d0_132.mdl"
+		}
+		"529"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d0_144.mdl"
+		}
+		"530"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d0_12.mdl"
+		}
+		"531"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d0_18.mdl"
+		}
+		"532"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d0_24.mdl"
+		}
+		"533"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d0_30.mdl"
+		}
+		"534"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d0_36.mdl"
+		}
+		"535"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d0_42.mdl"
+		}
+		"536"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d0_48.mdl"
+		}
+		"537"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d0_60.mdl"
+		}
+		"538"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d0_72.mdl"
+		}
+		"539"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d0_84.mdl"
+		}
+		"540"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d0_96.mdl"
+		}
+		"541"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d0_108.mdl"
+		}
+		"542"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d0_120.mdl"
+		}
+		"543"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d0_132.mdl"
+		}
+		"544"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d0_144.mdl"
+		}
+		"545"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d0_12.mdl"
+		}
+		"546"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d0_18.mdl"
+		}
+		"547"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d0_24.mdl"
+		}
+		"548"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d0_30.mdl"
+		}
+		"549"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d0_36.mdl"
+		}
+		"550"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d0_42.mdl"
+		}
+		"551"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d0_48.mdl"
+		}
+		"552"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d0_60.mdl"
+		}
+		"553"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d0_72.mdl"
+		}
+		"554"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d0_84.mdl"
+		}
+		"555"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d0_96.mdl"
+		}
+		"556"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d0_108.mdl"
+		}
+		"557"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d0_120.mdl"
+		}
+		"558"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d0_132.mdl"
+		}
+		"559"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d0_144.mdl"
+		}
+		"560"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d3_12.mdl"
+		}
+		"561"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d3_18.mdl"
+		}
+		"562"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d3_24.mdl"
+		}
+		"563"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d3_30.mdl"
+		}
+		"564"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d3_36.mdl"
+		}
+		"565"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d3_42.mdl"
+		}
+		"566"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/qsqhole_d3_48.mdl"
+		}
+		"567"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d3_12.mdl"
+		}
+		"568"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d3_18.mdl"
+		}
+		"569"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d3_24.mdl"
+		}
+		"570"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d3_30.mdl"
+		}
+		"571"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d3_36.mdl"
+		}
+		"572"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d3_42.mdl"
+		}
+		"573"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/hsqhole_d3_48.mdl"
+		}
+		"574"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d3_12.mdl"
+		}
+		"575"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d3_18.mdl"
+		}
+		"576"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d3_24.mdl"
+		}
+		"577"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d3_30.mdl"
+		}
+		"578"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d3_36.mdl"
+		}
+		"579"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d3_42.mdl"
+		}
+		"580"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/sqhole_d3_48.mdl"
+		}
+		"581"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d3_12.mdl"
+		}
+		"582"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d3_18.mdl"
+		}
+		"583"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d3_24.mdl"
+		}
+		"584"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d3_30.mdl"
+		}
+		"585"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d3_36.mdl"
+		}
+		"586"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d3_42.mdl"
+		}
+		"587"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_qsqhole_d3_48.mdl"
+		}
+		"588"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d3_12.mdl"
+		}
+		"589"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d3_18.mdl"
+		}
+		"590"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d3_24.mdl"
+		}
+		"591"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d3_30.mdl"
+		}
+		"592"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d3_36.mdl"
+		}
+		"593"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d3_42.mdl"
+		}
+		"594"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_hsqhole_d3_48.mdl"
+		}
+		"595"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d3_12.mdl"
+		}
+		"596"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d3_18.mdl"
+		}
+		"597"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d3_24.mdl"
+		}
+		"598"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d3_30.mdl"
+		}
+		"599"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d3_36.mdl"
+		}
+		"600"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d3_42.mdl"
+		}
+		"601"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/sq_holes/t_sqhole_d3_48.mdl"
+		}
+	}
+	"name"		"Geometry"
+	"version"		"3"
+}
