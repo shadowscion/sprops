@@ -7,9 +7,6 @@
 		"*.psd",
 		"*.vcproj",
 		"*.svn*",
-		"*.git*",
-		"*.txt",
-		"sprops_ws_icon.jpg",
-		"README.md"
+		"*.git*"
 	]
 }
