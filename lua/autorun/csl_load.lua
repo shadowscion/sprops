@@ -1,6 +1,6 @@
 
 if SERVER then
-	--
+    --
     AddCSLuaFile()
 
     AddCSLuaFile( "csl/custom_spawnlist.lua" )
@@ -24,25 +24,25 @@ end
 
 if CLIENT then
 
-	-- 
-	include( "csl/vgui/custom_tilelayout.lua" )
-	include( "csl/vgui/custom_contentcontainer.lua" )
+    --
+    include( "csl/vgui/custom_tilelayout.lua" )
+    include( "csl/vgui/custom_contentcontainer.lua" )
 
-	include( "csl/custom_spawnlist.lua" )
+    include( "csl/custom_spawnlist.lua" )
 
-	-- custom sprops spawnlists
-	spawnmenu.AddCustomSpawnlistNode( "SProps", "materials/settings/spawnlist/sprops/", "icon16/brick.png", {
-	    OnNodeSelected = function( self )
-	        local parent = self:GetParentNode()
+    -- custom sprops spawnlists
+    spawnmenu.AddCustomSpawnlistNode( "SProps", "materials/settings/spawnlist/sprops/", "icon16/brick.png", {
+        OnNodeSelected = function( self )
+            local parent = self:GetParentNode()
 
-	        if parent.LastActiveNode then
-	            parent.LastActiveNode:SetIcon( "icon16/plugin_disabled.png" )
-	        end
+            if parent.LastActiveNode then
+                parent.LastActiveNode:SetIcon( "icon16/plugin_disabled.png" )
+            end
 
-	        self:SetIcon( "icon16/plugin.png" )
-	        parent.LastActiveNode = self
-	    end
-	} )
+            self:SetIcon( "icon16/plugin.png" )
+            parent.LastActiveNode = self
+        end
+    } )
 
 end
 
@@ -62,6 +62,10 @@ list.Add( "OverrideMaterials", "sprops/textures/sprops_metal3" )
 list.Add( "OverrideMaterials", "sprops/textures/sprops_metal4" )
 list.Add( "OverrideMaterials", "sprops/textures/sprops_metal5" )
 list.Add( "OverrideMaterials", "sprops/textures/sprops_metal6" )
+list.Add( "OverrideMaterials", "sprops/textures/hex_dark_bump" )
+list.Add( "OverrideMaterials", "sprops/textures/hex_dark_refl" )
+list.Add( "OverrideMaterials", "sprops/textures/hex_light_bump" )
+list.Add( "OverrideMaterials", "sprops/textures/hex_light_refl" )
 list.Add( "OverrideMaterials", "sprops/trans/misc/ls_m1" )
 list.Add( "OverrideMaterials", "sprops/trans/misc/ls_m2" )
 list.Add( "OverrideMaterials", "sprops/textures/sprops_wood1" )
