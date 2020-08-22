@@ -18,569 +18,589 @@
 		"3"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/bone_from_x.mdl"
+			"model"		"models/sprops/misc/empty.mdl"
 		}
 		"4"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/bone_from_y.mdl"
+			"model"		"models/sprops/misc/bone_from_x.mdl"
 		}
 		"5"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/bone_from_z.mdl"
+			"model"		"models/sprops/misc/bone_from_y.mdl"
 		}
 		"6"
 		{
-			"type"		"header"
-			"text"		"Symbols"
+			"type"		"model"
+			"model"		"models/sprops/misc/bone_from_z.mdl"
 		}
 		"7"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_prd.mdl"
+			"model"		"models/sprops/misc/cube_from_x.mdl"
 		}
 		"8"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_com.mdl"
+			"model"		"models/sprops/misc/cube_from_y.mdl"
 		}
 		"9"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_colon.mdl"
+			"model"		"models/sprops/misc/cube_from_z.mdl"
 		}
 		"10"
 		{
-			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_scolon.mdl"
+			"type"		"header"
+			"text"		"Symbols"
 		}
 		"11"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_qmark.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_prd.mdl"
 		}
 		"12"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_xmark.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_com.mdl"
 		}
 		"13"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_quote.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_colon.mdl"
 		}
 		"14"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_tilde.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_scolon.mdl"
 		}
 		"15"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_lessthan.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_qmark.mdl"
 		}
 		"16"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_greaterthan.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_xmark.mdl"
 		}
 		"17"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_underscore.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_quote.mdl"
 		}
 		"18"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_atsign.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_tilde.mdl"
 		}
 		"19"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_copy.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_lessthan.mdl"
 		}
 		"20"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_trade.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_greaterthan.mdl"
 		}
 		"21"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_pdsign.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_underscore.mdl"
 		}
 		"22"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_dlsign.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_atsign.mdl"
 		}
 		"23"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_pound.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_copy.mdl"
 		}
 		"24"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_pcnt.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_trade.mdl"
 		}
 		"25"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_crt.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_pdsign.mdl"
 		}
 		"26"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_and.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_dlsign.mdl"
 		}
 		"27"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_apost.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_pound.mdl"
 		}
 		"28"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_lpar.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_pcnt.mdl"
 		}
 		"29"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_rpar.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_crt.mdl"
 		}
 		"30"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_lbracket.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_and.mdl"
 		}
 		"31"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_rbracket.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_apost.mdl"
 		}
 		"32"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_lcbracket.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_lpar.mdl"
 		}
 		"33"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_rcbracket.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_rpar.mdl"
 		}
 		"34"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_bar.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_lbracket.mdl"
 		}
 		"35"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_plu.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_rbracket.mdl"
 		}
 		"36"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_min.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_lcbracket.mdl"
 		}
 		"37"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_ast.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_rcbracket.mdl"
 		}
 		"38"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_div.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_bar.mdl"
 		}
 		"39"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_equal.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_plu.mdl"
 		}
 		"40"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_note_8a.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_min.mdl"
 		}
 		"41"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_note_8b.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_ast.mdl"
 		}
 		"42"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_note_8c.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_div.mdl"
 		}
 		"43"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_note_16a.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_equal.mdl"
 		}
 		"44"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_note_16b.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_note_8a.mdl"
 		}
 		"45"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_note_16c.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_note_8b.mdl"
 		}
 		"46"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_star_1.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_note_8c.mdl"
 		}
 		"47"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_star_2.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_note_16a.mdl"
 		}
 		"48"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_star_3.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_note_16b.mdl"
 		}
 		"49"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_star_4.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_note_16c.mdl"
 		}
 		"50"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_arrow_a.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_star_1.mdl"
 		}
 		"51"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_arrow_b.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_star_2.mdl"
 		}
 		"52"
 		{
-			"type"		"header"
-			"text"		"Numbers"
+			"type"		"model"
+			"model"		"models/sprops/misc/alphanum/alphanum_star_3.mdl"
 		}
 		"53"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_0.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_star_4.mdl"
 		}
 		"54"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_1.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_arrow_a.mdl"
 		}
 		"55"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_2.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_arrow_b.mdl"
 		}
 		"56"
 		{
-			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_3.mdl"
+			"type"		"header"
+			"text"		"Numbers"
 		}
 		"57"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_4.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_0.mdl"
 		}
 		"58"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_5.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_1.mdl"
 		}
 		"59"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_6.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_2.mdl"
 		}
 		"60"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_7.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_3.mdl"
 		}
 		"61"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_8.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_4.mdl"
 		}
 		"62"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_9.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_5.mdl"
 		}
 		"63"
 		{
-			"type"		"header"
-			"text"		"Alphabet (Upper)"
+			"type"		"model"
+			"model"		"models/sprops/misc/alphanum/alphanum_6.mdl"
 		}
 		"64"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_a.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_7.mdl"
 		}
 		"65"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_b.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_8.mdl"
 		}
 		"66"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_c.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_9.mdl"
 		}
 		"67"
 		{
-			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_d.mdl"
+			"type"		"header"
+			"text"		"Alphabet (Upper)"
 		}
 		"68"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_e.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_a.mdl"
 		}
 		"69"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_f.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_b.mdl"
 		}
 		"70"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_g.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_c.mdl"
 		}
 		"71"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_h.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_d.mdl"
 		}
 		"72"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_i.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_e.mdl"
 		}
 		"73"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_j.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_f.mdl"
 		}
 		"74"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_k.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_g.mdl"
 		}
 		"75"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_h.mdl"
 		}
 		"76"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_m.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_i.mdl"
 		}
 		"77"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_n.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_j.mdl"
 		}
 		"78"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_o.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_k.mdl"
 		}
 		"79"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_p.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l.mdl"
 		}
 		"80"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_q.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_m.mdl"
 		}
 		"81"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_r.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_n.mdl"
 		}
 		"82"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_s.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_o.mdl"
 		}
 		"83"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_t.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_p.mdl"
 		}
 		"84"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_u.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_q.mdl"
 		}
 		"85"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_v.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_r.mdl"
 		}
 		"86"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_w.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_s.mdl"
 		}
 		"87"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_x.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_t.mdl"
 		}
 		"88"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_y.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_u.mdl"
 		}
 		"89"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_z.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_v.mdl"
 		}
 		"90"
 		{
-			"type"		"header"
-			"text"		"Alphabet (Lower)"
+			"type"		"model"
+			"model"		"models/sprops/misc/alphanum/alphanum_w.mdl"
 		}
 		"91"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_a.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_x.mdl"
 		}
 		"92"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_b.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_y.mdl"
 		}
 		"93"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_c.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_z.mdl"
 		}
 		"94"
 		{
-			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_d.mdl"
+			"type"		"header"
+			"text"		"Alphabet (Lower)"
 		}
 		"95"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_e.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_a.mdl"
 		}
 		"96"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_f.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_b.mdl"
 		}
 		"97"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_g.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_c.mdl"
 		}
 		"98"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_h.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_d.mdl"
 		}
 		"99"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_i.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_e.mdl"
 		}
 		"100"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_j.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_f.mdl"
 		}
 		"101"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_k.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_g.mdl"
 		}
 		"102"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_l.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_h.mdl"
 		}
 		"103"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_m.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_i.mdl"
 		}
 		"104"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_n.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_j.mdl"
 		}
 		"105"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_o.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_k.mdl"
 		}
 		"106"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_p.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_l.mdl"
 		}
 		"107"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_q.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_m.mdl"
 		}
 		"108"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_r.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_n.mdl"
 		}
 		"109"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_s.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_o.mdl"
 		}
 		"110"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_t.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_p.mdl"
 		}
 		"111"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_u.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_q.mdl"
 		}
 		"112"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_v.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_r.mdl"
 		}
 		"113"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_w.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_s.mdl"
 		}
 		"114"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_x.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_t.mdl"
 		}
 		"115"
 		{
 			"type"		"model"
-			"model"		"models/sprops/misc/alphanum/alphanum_l_y.mdl"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_u.mdl"
 		}
 		"116"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_v.mdl"
+		}
+		"117"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_w.mdl"
+		}
+		"118"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_x.mdl"
+		}
+		"119"
+		{
+			"type"		"model"
+			"model"		"models/sprops/misc/alphanum/alphanum_l_y.mdl"
+		}
+		"120"
 		{
 			"type"		"model"
 			"model"		"models/sprops/misc/alphanum/alphanum_l_z.mdl"
