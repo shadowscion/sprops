@@ -129,7 +129,10 @@ end
 -- POPULATE SPAWNLIST
 hook.Add("PopulateContent", "sprops_spawnlists", function(pnlContent, tree, browse)
 	-- disable browse node to prevent crashes
-	timer.Simple(1, function()
+	timer.Simple(2, function()
+		if not browse or not browse.GetChildNodes or browse:GetText() ~= "Browse" then
+			return
+		end
 		for _, bNode in ipairs(browse:GetChildNodes()) do
 			if bNode:GetText() == "Addons" then
 				for _, aNode in ipairs(bNode:GetChildNodes()) do
