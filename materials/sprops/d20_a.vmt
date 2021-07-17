@@ -1,5 +1,6 @@
-"VertexlitGeneric"
+VertexLitGeneric
 {
-	"$model"	"1"
-	"$basetexture"	"sprops/d20_a"
+	$basetexture		sprops/d20
+	$halflambert		1
+	$model				1
 }

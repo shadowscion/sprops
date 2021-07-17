@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$baseTexture"  "sprops/cards/hearts_4"
+	"$selfillum"    "1"
+	"$reflectivity" "[0 0 0]"
+	"$nodecal"      "1"
+}
