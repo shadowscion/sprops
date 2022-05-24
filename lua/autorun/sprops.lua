@@ -82,6 +82,11 @@ local ICONS = {
 	off  = "icon16/plugin_disabled.png",
 }
 
+if not shadowscion_standard_font then
+	shadowscion_standard_font = "shadowscion_standard_font"
+	surface.CreateFont(shadowscion_standard_font, {size = 13, weight = 800, font = "Tahoma"})
+end
+
 
 ---------------------------------------------------------------
 -- COPY CREATE CUSTOM NODE
@@ -121,6 +126,8 @@ SPROPS_AddCustomizableNode = function(pnlContent, name, icon, parent)
 
 	SPROPS_SetupCustomNode(node, pnlContent)
 
+	node.Label:SetFont(shadowscion_standard_font)
+
 	return node
 end
 
@@ -153,9 +160,20 @@ hook.Add("PopulateContent", "sprops_spawnlists", function(pnlContent, tree, brow
 	-- create custom tree
 	local node = SPROPS_AddCustomizableNode(pnlContent, "SProps", ICONS.tree, tree)
 
-	node:SetExpanded(true)
 	node.DoRightClick = function() end
 	node.OnModified = function() end
+
+	node.SetExpanded = function(self, bExpand, bSurpressAnimation)
+		DTree_Node.SetExpanded(self, bExpand, false)
+		cookie.Set("sprops.smx", self:GetExpanded() and 1 or 0)
+	end
+
+	node:SetExpanded(tobool(cookie.GetNumber("sprops.smx", 0)))
+
+	node.DoClick = function(self)
+		tree:SetSelectedItem(nil)
+		self:SetExpanded(not self:GetExpanded())
+	end
 
 	local last
 	node.OnNodeSelected = function(self, node)
