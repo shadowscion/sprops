@@ -1,7 +1,7 @@
 "VertexlitGeneric"
 {
-	"$basetexture" "sprops/trans/wheels/trailer_wheel01a"
-	"$bumpmap"	"sprops/trans/wheels/trailer_wheel01_n"
+	"$basetexture" "sprops/trans/wheels/trailer_wheel03a"
+	"$bumpmap"	"sprops/trans/wheels/trailer_wheel03_n"
 	"$model" "1"
 
 	"$blendtintbybasealpha" "1"
