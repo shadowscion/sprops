@@ -10,6 +10,8 @@
 		"*.git*",
 		"*.txt",
 		"*.sw.vtx",
+		"*.dx80.vtx",
+		"*.xbox.vtx",
 		"sprops_ws_icon.jpg",
 		"README.md"
 	]
