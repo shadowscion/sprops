@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sprops/trans/wheels/tire_misc2_dirt"
+	"$bumpmap"	"sprops/trans/wheels/tire_misc2_n"
+	"$model" "1"
+
+	"$blendtintbybasealpha" "1"
+	"$halflambert" "1"
+
+	"$phong" "1"
+	"$phongboost" "0.35"
+	"$phongexponent" "15"
+	"$phongtint" "[1 0.85 0.85]"
+	"$phongfresnelranges" "[.5 .85 30]"
+}

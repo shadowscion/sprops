@@ -2,10 +2,14 @@
 {
 	"$basetexture" "sprops/trans/wheels/trailer_wheel01a"
 	"$bumpmap"	"sprops/trans/wheels/trailer_wheel01_n"
+	"$model" "1"
+
 	"$blendtintbybasealpha" "1"
-	"$halflambert" 	"1"
-	"$phong"     	"1"
- 	"$phongexponent"  "10"
- 	"$phongboost"   	"1"
- 	"$phongfresnelranges"   "[0 .5 1]"
+	"$halflambert" "1"
+
+	"$phong" "1"
+	"$phongboost" "0.1"
+	"$phongexponent" "15"
+	"$phongtint" "[1 0.85 0.85]"
+	"$phongfresnelranges" "[.5 .85 30]"
 }

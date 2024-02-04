@@ -6,6 +6,6 @@
 	"$halflambert" 	"1"
 	"$phong"     	"1"
  	"$phongexponent"  "10"
- 	"$phongboost"   	"1"
+ 	"$phongboost"   	"0.25"
  	"$phongfresnelranges"   "[0 .5 1]"
 }
